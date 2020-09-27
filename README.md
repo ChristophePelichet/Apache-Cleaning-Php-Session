@@ -1,9 +1,9 @@
 # Apache Cleaning Php Sessions V1.0
 
-## DESCRIPTION
+## Description
 Simple script to clean old phpsession in your apache
 
-## CONFIGURATION
+## Configuration
 Configure the variables according to your installation and your configuration
 
 ## Change Log 
